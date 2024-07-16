@@ -47,7 +47,7 @@ CREATE DATABASE hr;
 ```
 ### 2) Import Data to SQL Server
 - Right-click on Human_Resources > Tasks > Import Data
-- Use import wizard to import HR Data.csv to hr table. Watch this at https://www.youtube.com/watch?v=4yn7iUJnJtE
+- Use import wizard to import HR Data.csv to hr table.
 - Verify that the import worked:
 
 ``` SQL
